@@ -1,0 +1,12 @@
+C:\Users\yifei\Desktop\rawinput_latest\rawinput latest\RawInput\bin\x86\Debug\RawInput.dll
+C:\Users\yifei\Desktop\rawinput_latest\rawinput latest\RawInput\bin\x86\Debug\RawInput.pdb
+C:\Users\yifei\Desktop\rawinput_latest\rawinput latest\RawInput\obj\x86\Debug\RawInput.csproj.CoreCompileInputs.cache
+C:\Users\yifei\Desktop\rawinput_latest\rawinput latest\RawInput\obj\x86\Debug\RawInput.dll
+C:\Users\yifei\Desktop\rawinput_latest\rawinput latest\RawInput\obj\x86\Debug\RawInput.pdb
+C:\Users\yifei\Desktop\rawinput_latest\rawinput latest\RawInput\obj\x86\Debug\RawInput.csprojResolveAssemblyReference.cache
+C:\Users\yifei\Downloads\rawinput_latest\rawinput latest\RawInput\bin\x86\Debug\RawInput.dll
+C:\Users\yifei\Downloads\rawinput_latest\rawinput latest\RawInput\bin\x86\Debug\RawInput.pdb
+C:\Users\yifei\Downloads\rawinput_latest\rawinput latest\RawInput\obj\x86\Debug\RawInput.csprojResolveAssemblyReference.cache
+C:\Users\yifei\Downloads\rawinput_latest\rawinput latest\RawInput\obj\x86\Debug\RawInput.csproj.CoreCompileInputs.cache
+C:\Users\yifei\Downloads\rawinput_latest\rawinput latest\RawInput\obj\x86\Debug\RawInput.dll
+C:\Users\yifei\Downloads\rawinput_latest\rawinput latest\RawInput\obj\x86\Debug\RawInput.pdb
